@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryTransparent">#3E10B59C</color>
+    <color name="colorPrimaryDark">#FF5722</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="blackAlpha">#D0000A23</color>
+    <color name="txtColorGray">#888888</color>
+    <color name="txtColorlightGray">#777777</color>
+    <color name="lightBorder">#D8D8D8</color>
+    <color name="lightTxtColor">#B4B2B2</color>
+    <color name="lightGrayBG">#E5E5E5</color>
+    <color name="pm_orange">#FFAE48</color>
+    <color name="black_txt">#1B242B</color>
+    <color name="black_transparent">#561F1F1F</color>
+    <color name="black_more_transparent">#32000000</color>
+    <color name="blue">#375DDA</color>
+    <color name="bg_white_shaded">#FCFBFF</color>
+    <color name="colorGraybg">#EFEFEF</color>
+    <color name="accenText">#059E9D</color>
+    <color name="error">#FF0000</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="close_background_dark">#777777</color>
+    <color name="white">#fff</color>
+</resources>

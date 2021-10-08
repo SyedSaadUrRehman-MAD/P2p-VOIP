@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460546041647",
+    "project_id": "intercom-1300e",
+    "storage_bucket": "intercom-1300e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460546041647:android:8ed782f4c7019c844963da",
+        "android_client_info": {
+          "package_name": "com.hawkxeye.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460546041647-g7a7gbcjilni69uvqfi5nfugubeg4to7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hawkxeye.online",
+            "certificate_hash": "5358015fdffca825eb97dffc939c27bbf1d5b430"
+          }
+        },
+        {
+          "client_id": "460546041647-b26cou041u099nvl9t6s40ojhud88bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfGl7kiQa4UEtH0UnCDKCGlps-I5kUZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460546041647-b26cou041u099nvl9t6s40ojhud88bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

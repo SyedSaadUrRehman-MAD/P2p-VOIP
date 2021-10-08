@@ -1,0 +1,24 @@
+
+ˆ
+java:S3008"fRename this field "m_OnlineNotificationManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À©¬°ûÿÿÿÿ8Éô¿Ì¤/
+Q	java:S1257"<This block of commented-out lines of code should be removed.(‹çŽú
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÁ™§
+c	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹µ–
+O
+java:S1874^"4Remove this use of "PRIORITY_MAX"; it is deprecated.(æƒ›àÿÿÿÿÿ
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Õ–Ñùÿÿÿÿ
+h	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¸à¦øÿÿÿÿ
+P
+java:S1874†"4Remove this use of "PRIORITY_MAX"; it is deprecated.(æƒ›àÿÿÿÿÿ
+\
+java:S2147™"ECombine this catch with the one at line 151, which has the same body.(Å¡ß
+H
+java:S3011•",This accessibility update should be removed.(Í”úÆùÿÿÿÿ
+H
+java:S3011–",This accessibility bypass should be removed.(ßÍ¢“øÿÿÿÿ
+i	java:S100ž"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë„¿Ëüÿÿÿÿ
+K
+java:S1874¦"4Remove this use of "PRIORITY_MAX"; it is deprecated.(” °Í
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦æú¾
+d	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ºø‡
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ïµ„

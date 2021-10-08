@@ -1,0 +1,69 @@
+
+E
+java:S3740`"/Provide the parametrized type for this generic.(²“È
+E
+java:S3740a"/Provide the parametrized type for this generic.(ŸıŸè
+D
+java:S3740b"/Provide the parametrized type for this generic.(Ş©Î0
+E
+java:S3740c"/Provide the parametrized type for this generic.(¤ä•ò
+J
+java:S3740d"/Provide the parametrized type for this generic.(Ò¨ç‹ùÿÿÿÿ
+E
+java:S3740e"/Provide the parametrized type for this generic.(úˆ»
+J
+java:S3740f"/Provide the parametrized type for this generic.(ªöÎ˜ùÿÿÿÿ
+E
+java:S3740g"/Provide the parametrized type for this generic.(ô¸¬Ü
+J
+java:S3740h"/Provide the parametrized type for this generic.(ĞÀ´¨ıÿÿÿÿ
+J
+java:S3740i"/Provide the parametrized type for this generic.(Š‚˜‘ùÿÿÿÿ
+J
+java:S3740j"/Provide the parametrized type for this generic.(ƒ‘Á¨ıÿÿÿÿ
+E
+java:S3740k"/Provide the parametrized type for this generic.(ßò¦
+
+java:S1192Ş"…Define a constant instead of duplicating this literal "Please grant the permissions, required for the app to work properly." 3 times.(¯ƒè—
+]
+java:S2184º"ACast one of the operands of this addition operation to a "float".(õÖÔĞÿÿÿÿÿ
+>
+java:S1604Š"(Make this anonymous inner class a lambda(¦Óìi
+i
+java:S3008Y"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¤Ü­şÿÿÿÿ
+•	java:S116:"{Rename this field "FUNC_TO_PERFORM_AFTER_LOCATION_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¼éğúÿÿÿÿ
+”	java:S116;"zRename this field "FUNC_TO_PERFORM_AFTER_STORAGE_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ƒ“Õùÿÿÿÿ
+“	java:S116<"~Rename this field "FUNC_TO_PERFORM_AFTER_PHONE_STATE_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„„Ñë
+˜	java:S116="~Rename this field "FUNC_TO_PERFORM_AFTER_GET_ACCOUNT_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¿îíÿÿÿÿÿ
+“	java:S116>"yRename this field "FUNC_TO_PERFORM_AFTER_CAMERA_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀŠ÷ñûÿÿÿÿ
+	java:S116?"{Rename this field "FUNC_TO_PERFORM_AFTER_CALENDAR_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ û
+‹	java:S116@"vRename this field "FUNC_TO_PERFORM_AFTER_MIC_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¾´Ñ
+‹	java:S116A"vRename this field "FUNC_TO_PERFORM_AFTER_ALL_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¤ıÅ
+	java:S116B"zRename this field "FUNC_TO_PERFORM_AFTER_PRIMARY_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì×“ô
+‘	java:S116C"|Rename this field "FUNC_TO_PERFORM_AFTER_SECONDARY_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ºüú
+Š	java:S116D"vRename this field "FUNC_TO_PERFORM_AFTER_DJI_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛƒğM
+”	java:S116E"zRename this field "FUNC_TO_PERFORM_AFTER_NETWORK_PERMISSION_GRANTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‡½ıÿÿÿÿ
+e
+java:S1874q"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+c	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â²Ëä
+=	java:S131¢""Add a default case to this switch.(×ö³–úÿÿÿÿ
+=	java:S131Å""Add a default case to this switch.(×ö³–úÿÿÿÿ
+B
+java:S1168ß"+Return an empty collection instead of null.(¥¹ï
+W	java:S125´"<This block of commented-out lines of code should be removed.(’êÉøıÿÿÿÿ
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¨³„Õ
+=	java:S131¬""Add a default case to this switch.(×ö³–úÿÿÿÿ
+U
+java:S1874Ÿ"9Remove this use of "PreferenceManager"; it is deprecated.(ğíÕ€úÿÿÿÿ
+_
+java:S1874Ÿ"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ğíÕ€úÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(©³üâ
+F
+java:S1874´"/Remove this use of "Handler"; it is deprecated.(Ÿ¹ïı
+˜
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ
+D
+java:S1172İ"(Remove this unused method parameter "v".(“üå‡şÿÿÿÿ
+O
+java:S1144³"8Remove this unused private "startShineAnimation" method.(ÛÆ“°

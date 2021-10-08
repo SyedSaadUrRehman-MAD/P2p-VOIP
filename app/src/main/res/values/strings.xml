@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intercom</string>
+    <string name="discovery_title">Discover Around</string>
+    <string name="profileTitle">Profile</string>
+</resources>

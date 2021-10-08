@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:id="@+id/llAppInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:gravity="left|center_vertical"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/ibStream">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/ic_intercom"
+            android:padding="@dimen/_5sdp"
+            android:layout_margin="2dp"/>
+
+        <TextView
+            android:id="@+id/tvContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/black_txt"
+            tools:text="Some camera is connected!"
+            android:padding="5dp"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/ibStream"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_intercom_foreground"
+        android:background="@android:color/transparent"
+        android:padding="2dp"
+        android:tint="@color/colorAccent"
+        android:layout_marginRight="20dp"
+        android:focusable="true"
+        android:clickable="true"/>
+</RelativeLayout>
